@@ -1,0 +1,3 @@
+rootProject.name = 'PawsNPoseScheduler'
+
+include ':app'
